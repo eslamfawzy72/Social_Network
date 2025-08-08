@@ -1,0 +1,756 @@
+User added to the system: adhamwalid (First Name: Adham, Last Name: Walid)
+User added to the system: yehyaalabyad (First Name: Yehya, Last Name: AlAbyad)
+User added to the system: nouranmohamed (First Name: Nouran, Last Name: Mohamed)
+User added to the system: reetajahmed (First Name: Reetaj, Last Name: Ahmed)
+User added to the system: mohamedwael (First Name: Mohamed, Last Name: Wael)
+User added to the system: carolkamal (First Name: Carol, Last Name: Kamal)
+User added to the system: hassanismail (First Name: Hassan, Last Name: Ismail)
+User added to the system: eslamfawzy (First Name: Eslam, Last Name: Fawzy)
+User added to the system: abdoadel (First Name: Abdo, Last Name: Adel)
+User added to the system: omarashraf (First Name: Omar, Last Name: Ashraf)
+User added to the system: janahasheesh (First Name: Jana, Last Name: Hasheesh)
+User added to the system: tokaelsayed (First Name: Toka, Last Name: ElSayed)
+User added to the system: amirtamer (First Name: Amir, Last Name: Tamer)
+User added to the system: moazahmed (First Name: Moaz, Last Name: Ahmed)
+User added to the system: mohamedbadra (First Name: Mohamed, Last Name: Badra)
+User added to the system: ahmedsalama (First Name: Ahmed, Last Name: Salama)
+User added to the system: prof.ashrafabdelraouf (First Name: Ashraf, Last Name: Abdelraouf)
+User added to the system: tamerhagras (First Name: Tamer, Last Name: Hagras)
+User added to the system: tylerdurden (First Name: Tyler, Last Name: Durden)
+User added to the system: arthurmorgan (First Name: Arthur, Last Name: Morgan)
+User added to the system: nassereldesouky (First Name: Nasser, Last Name: Eldesouky)
+User added to the system: gaafarelomda (First Name: Gaafar, Last Name: Elomda)
+User added to the system: omaraeia (First Name: Omar, Last Name: Raeia)
+User added to the system: theNarrator (First Name: Tyler, Last Name: Durden)
+User added to the system: ryangosling (First Name: Ryan, Last Name: Gosling)
+User added to the system: hamadahelal (First Name: Hamada, Last Name: Helal)
+User added to the system: ahmedalsayed (First Name: Ahmed, Last Name: Alsayed)
+User added to the system: hassanhazem (First Name: Hassan, Last Name: Hazem)
+User added to the system: mostafaamr (First Name: Mostafa, Last Name: Amr)
+User added to the system: mariamshemis (First Name: Mariam, Last Name: Shemis)
+User added to the system: abdelrahmanzayed (First Name: Abdelrahman, Last Name: Zayed)
+User added to the system: mariamtarek (First Name: Mariam, Last Name: Tarek)
+User added to the system: mariamibrahim (First Name: Mariam, Last Name: Ibrahim)
+User added to the system: hossamosama (First Name: Hossam, Last Name: Osama)
+User added to the system: omarabouraia (First Name: Omar, Last Name: Abouraia)
+User added to the system: alyattia (First Name: Aly, Last Name: Attia)
+User added to the system: saeednegm (First Name: Saeed, Last Name: Negm)
+User added to the system: zeinamaged (First Name: Zeina, Last Name: Maged)
+User added to the system: sagdamansour (First Name: Sagda, Last Name: Mansour)
+User added to the system: janamohamed (First Name: Jana, Last Name: Mohamed)
+User added to the system: janakhaled (First Name: Jana, Last Name: Khaled)
+User added to the system: rahafahmed (First Name: Rahaf, Last Name: Ahmed)
+User added to the system: davidsameh (First Name: David, Last Name: Sameh)
+User added to the system: youssefsalem (First Name: Youssef, Last Name: Salem)
+User added to the system: ashrafsameh (First Name: Ashraf, Last Name: Sameh)
+User added to the system: adhamelattar (First Name: Adham, Last Name: Elattar)
+User added to the system: zeinkazem (First Name: Zein, Last Name: Kazem)
+User added to the system: alyomar (First Name: Aly, Last Name: Omar)
+nouranmohamed added reetajahmed to their friends list.
+reetajahmed added eslamfawzy to their friends list.
+adhamwalid added nouranmohamed to their friends list.
+adhamwalid added yehyaalabyad to their friends list.
+mohamedwael added yehyaalabyad to their friends list.
+adhamwalid added eslamfawzy to their friends list.
+mohamedwael added eslamfawzy to their friends list.
+rahafahmed added hassanismail to their friends list.
+yehyaalabyad added reetajahmed to their friends list.
+nouranmohamed added mohamedwael to their friends list.
+reetajahmed added mohamedwael to their friends list.
+carolkamal added adhamwalid to their friends list.
+carolkamal added reetajahmed to their friends list.
+hassanismail added yehyaalabyad to their friends list.
+hassanismail added nouranmohamed to their friends list.
+User added to the system: adhamwalid (First Name: Adham, Last Name: Walid)
+User added to the system: yehyaalabyad (First Name: Yehya, Last Name: AlAbyad)
+User added to the system: nouranmohamed (First Name: Nouran, Last Name: Mohamed)
+User added to the system: reetajahmed (First Name: Reetaj, Last Name: Ahmed)
+User added to the system: mohamedwael (First Name: Mohamed, Last Name: Wael)
+User added to the system: carolkamal (First Name: Carol, Last Name: Kamal)
+User added to the system: hassanismail (First Name: Hassan, Last Name: Ismail)
+User added to the system: eslamfawzy (First Name: Eslam, Last Name: Fawzy)
+User added to the system: abdoadel (First Name: Abdo, Last Name: Adel)
+User added to the system: omarashraf (First Name: Omar, Last Name: Ashraf)
+User added to the system: janahasheesh (First Name: Jana, Last Name: Hasheesh)
+User added to the system: tokaelsayed (First Name: Toka, Last Name: ElSayed)
+User added to the system: amirtamer (First Name: Amir, Last Name: Tamer)
+User added to the system: moazahmed (First Name: Moaz, Last Name: Ahmed)
+User added to the system: mohamedbadra (First Name: Mohamed, Last Name: Badra)
+User added to the system: ahmedsalama (First Name: Ahmed, Last Name: Salama)
+User added to the system: prof.ashrafabdelraouf (First Name: Ashraf, Last Name: Abdelraouf)
+User added to the system: tamerhagras (First Name: Tamer, Last Name: Hagras)
+User added to the system: tylerdurden (First Name: Tyler, Last Name: Durden)
+User added to the system: arthurmorgan (First Name: Arthur, Last Name: Morgan)
+User added to the system: nassereldesouky (First Name: Nasser, Last Name: Eldesouky)
+User added to the system: gaafarelomda (First Name: Gaafar, Last Name: Elomda)
+User added to the system: omaraeia (First Name: Omar, Last Name: Raeia)
+User added to the system: theNarrator (First Name: Tyler, Last Name: Durden)
+User added to the system: ryangosling (First Name: Ryan, Last Name: Gosling)
+User added to the system: hamadahelal (First Name: Hamada, Last Name: Helal)
+User added to the system: ahmedalsayed (First Name: Ahmed, Last Name: Alsayed)
+User added to the system: hassanhazem (First Name: Hassan, Last Name: Hazem)
+User added to the system: mostafaamr (First Name: Mostafa, Last Name: Amr)
+User added to the system: mariamshemis (First Name: Mariam, Last Name: Shemis)
+User added to the system: abdelrahmanzayed (First Name: Abdelrahman, Last Name: Zayed)
+User added to the system: mariamtarek (First Name: Mariam, Last Name: Tarek)
+User added to the system: mariamibrahim (First Name: Mariam, Last Name: Ibrahim)
+User added to the system: hossamosama (First Name: Hossam, Last Name: Osama)
+User added to the system: omarabouraia (First Name: Omar, Last Name: Abouraia)
+User added to the system: alyattia (First Name: Aly, Last Name: Attia)
+User added to the system: saeednegm (First Name: Saeed, Last Name: Negm)
+User added to the system: zeinamaged (First Name: Zeina, Last Name: Maged)
+User added to the system: sagdamansour (First Name: Sagda, Last Name: Mansour)
+User added to the system: janamohamed (First Name: Jana, Last Name: Mohamed)
+User added to the system: janakhaled (First Name: Jana, Last Name: Khaled)
+User added to the system: rahafahmed (First Name: Rahaf, Last Name: Ahmed)
+User added to the system: davidsameh (First Name: David, Last Name: Sameh)
+User added to the system: youssefsalem (First Name: Youssef, Last Name: Salem)
+User added to the system: ashrafsameh (First Name: Ashraf, Last Name: Sameh)
+User added to the system: adhamelattar (First Name: Adham, Last Name: Elattar)
+User added to the system: zeinkazem (First Name: Zein, Last Name: Kazem)
+User added to the system: alyomar (First Name: Aly, Last Name: Omar)
+nouranmohamed added reetajahmed to their friends list.
+reetajahmed added eslamfawzy to their friends list.
+adhamwalid added nouranmohamed to their friends list.
+adhamwalid added yehyaalabyad to their friends list.
+mohamedwael added yehyaalabyad to their friends list.
+adhamwalid added eslamfawzy to their friends list.
+mohamedwael added eslamfawzy to their friends list.
+rahafahmed added hassanismail to their friends list.
+yehyaalabyad added reetajahmed to their friends list.
+nouranmohamed added mohamedwael to their friends list.
+reetajahmed added mohamedwael to their friends list.
+carolkamal added adhamwalid to their friends list.
+carolkamal added reetajahmed to their friends list.
+hassanismail added yehyaalabyad to their friends list.
+hassanismail added nouranmohamed to their friends list.
+Searching at index: 1091
+Checking username: eslamfawzy, password: password131
+Invalid username or password attempted: eslamfawzy
+Searching at index: 1091
+Checking username: eslamfawzy, password: password131
+Sum of username characters: 1036
+Calculated hash index: 1036
+Calling HASHget...
+Searching at index: 1036
+Checking username: adhamwalid, password: password123
+Successfully retrieved targetNode
+Checking if username is in friends list...
+Successfully retrieved targetNode
+Checking if username is in friends list...
+------------------------------------------------------------
+Username: nouranmohamed, Mutual Count: 3
+Username: yehyaalabyad, Mutual Count: 3
+Username: carolkamal, Mutual Count: 2
+Username: nouranmohamed, Mutual Count: 3
+Username: yehyaalabyad, Mutual Count: 3
+Username: carolkamal, Mutual Count: 2
+Username: nouranmohamed, Mutual Count: 3
+Username: yehyaalabyad, Mutual Count: 3
+Username: carolkamal, Mutual Count: 2
+User added to the system: adhamwalid (First Name: Adham, Last Name: Walid)
+User added to the system: yehyaalabyad (First Name: Yehya, Last Name: AlAbyad)
+User added to the system: nouranmohamed (First Name: Nouran, Last Name: Mohamed)
+User added to the system: reetajahmed (First Name: Reetaj, Last Name: Ahmed)
+User added to the system: mohamedwael (First Name: Mohamed, Last Name: Wael)
+User added to the system: carolkamal (First Name: Carol, Last Name: Kamal)
+User added to the system: hassanismail (First Name: Hassan, Last Name: Ismail)
+User added to the system: eslamfawzy (First Name: Eslam, Last Name: Fawzy)
+User added to the system: abdoadel (First Name: Abdo, Last Name: Adel)
+User added to the system: omarashraf (First Name: Omar, Last Name: Ashraf)
+User added to the system: janahasheesh (First Name: Jana, Last Name: Hasheesh)
+User added to the system: tokaelsayed (First Name: Toka, Last Name: ElSayed)
+User added to the system: amirtamer (First Name: Amir, Last Name: Tamer)
+User added to the system: moazahmed (First Name: Moaz, Last Name: Ahmed)
+User added to the system: mohamedbadra (First Name: Mohamed, Last Name: Badra)
+User added to the system: ahmedsalama (First Name: Ahmed, Last Name: Salama)
+User added to the system: prof.ashrafabdelraouf (First Name: Ashraf, Last Name: Abdelraouf)
+User added to the system: tamerhagras (First Name: Tamer, Last Name: Hagras)
+User added to the system: tylerdurden (First Name: Tyler, Last Name: Durden)
+User added to the system: arthurmorgan (First Name: Arthur, Last Name: Morgan)
+User added to the system: nassereldesouky (First Name: Nasser, Last Name: Eldesouky)
+User added to the system: gaafarelomda (First Name: Gaafar, Last Name: Elomda)
+User added to the system: omaraeia (First Name: Omar, Last Name: Raeia)
+User added to the system: theNarrator (First Name: Tyler, Last Name: Durden)
+User added to the system: ryangosling (First Name: Ryan, Last Name: Gosling)
+User added to the system: hamadahelal (First Name: Hamada, Last Name: Helal)
+User added to the system: ahmedalsayed (First Name: Ahmed, Last Name: Alsayed)
+User added to the system: hassanhazem (First Name: Hassan, Last Name: Hazem)
+User added to the system: mostafaamr (First Name: Mostafa, Last Name: Amr)
+User added to the system: mariamshemis (First Name: Mariam, Last Name: Shemis)
+User added to the system: abdelrahmanzayed (First Name: Abdelrahman, Last Name: Zayed)
+User added to the system: mariamtarek (First Name: Mariam, Last Name: Tarek)
+User added to the system: mariamibrahim (First Name: Mariam, Last Name: Ibrahim)
+User added to the system: hossamosama (First Name: Hossam, Last Name: Osama)
+User added to the system: omarabouraia (First Name: Omar, Last Name: Abouraia)
+User added to the system: alyattia (First Name: Aly, Last Name: Attia)
+User added to the system: saeednegm (First Name: Saeed, Last Name: Negm)
+User added to the system: zeinamaged (First Name: Zeina, Last Name: Maged)
+User added to the system: sagdamansour (First Name: Sagda, Last Name: Mansour)
+User added to the system: janamohamed (First Name: Jana, Last Name: Mohamed)
+User added to the system: janakhaled (First Name: Jana, Last Name: Khaled)
+User added to the system: rahafahmed (First Name: Rahaf, Last Name: Ahmed)
+User added to the system: davidsameh (First Name: David, Last Name: Sameh)
+User added to the system: youssefsalem (First Name: Youssef, Last Name: Salem)
+User added to the system: ashrafsameh (First Name: Ashraf, Last Name: Sameh)
+User added to the system: adhamelattar (First Name: Adham, Last Name: Elattar)
+User added to the system: zeinkazem (First Name: Zein, Last Name: Kazem)
+User added to the system: alyomar (First Name: Aly, Last Name: Omar)
+nouranmohamed added reetajahmed to their friends list.
+reetajahmed added eslamfawzy to their friends list.
+adhamwalid added nouranmohamed to their friends list.
+adhamwalid added yehyaalabyad to their friends list.
+mohamedwael added yehyaalabyad to their friends list.
+adhamwalid added eslamfawzy to their friends list.
+mohamedwael added eslamfawzy to their friends list.
+rahafahmed added hassanismail to their friends list.
+yehyaalabyad added reetajahmed to their friends list.
+nouranmohamed added mohamedwael to their friends list.
+reetajahmed added mohamedwael to their friends list.
+carolkamal added adhamwalid to their friends list.
+carolkamal added reetajahmed to their friends list.
+hassanismail added yehyaalabyad to their friends list.
+hassanismail added nouranmohamed to their friends list.
+User added to the system: ziadismail (First Name: ziad, Last Name: ismail)
+Searching at index: 1063
+Checking username: ziadismail, password: ziad123
+Sum of username characters: 1036
+Calculated hash index: 1036
+Calling HASHget...
+Searching at index: 1036
+Checking username: adhamwalid, password: password123
+Successfully retrieved targetNode
+Checking if username is in friends list...
+Request sent from ziadismail to adhamwalid.
+Added successfully!
+Successfully retrieved targetNode
+Checking if username is in friends list...
+Request sent from ziadismail to eslamfawzy.
+Successfully retrieved targetNode
+Checking if username is in friends list...
+------------------------------------------------------------
+Sum of username characters: 1090
+Calculated hash index: 1090
+Calling HASHget...
+Searching at index: 1090
+Invalid username
+Sum of username characters: 1091
+Calculated hash index: 1091
+Calling HASHget...
+Searching at index: 1091
+Checking username: eslamfawzy, password: password131
+Successfully retrieved targetNode
+Checking if username is in friends list...
+------------------------------------------------------------
+Searching at index: 1091
+Checking username: eslamfawzy, password: password131
+eslamfawzy added ziadismail to their friends list.
+Searching at index: 1063
+Checking username: ziadismail, password: ziad123
+Username: reetajahmed, Mutual Count: 1
+Username: mohamedwael, Mutual Count: 1
+Username: reetajahmed, Mutual Count: 1
+Username: mohamedwael, Mutual Count: 1
+User added to the system: adhamwalid (First Name: Adham, Last Name: Walid)
+User added to the system: yehyaalabyad (First Name: Yehya, Last Name: AlAbyad)
+User added to the system: nouranmohamed (First Name: Nouran, Last Name: Mohamed)
+User added to the system: reetajahmed (First Name: Reetaj, Last Name: Ahmed)
+User added to the system: mohamedwael (First Name: Mohamed, Last Name: Wael)
+User added to the system: carolkamal (First Name: Carol, Last Name: Kamal)
+User added to the system: hassanismail (First Name: Hassan, Last Name: Ismail)
+User added to the system: eslamfawzy (First Name: Eslam, Last Name: Fawzy)
+User added to the system: abdoadel (First Name: Abdo, Last Name: Adel)
+User added to the system: omarashraf (First Name: Omar, Last Name: Ashraf)
+User added to the system: janahasheesh (First Name: Jana, Last Name: Hasheesh)
+User added to the system: tokaelsayed (First Name: Toka, Last Name: ElSayed)
+User added to the system: amirtamer (First Name: Amir, Last Name: Tamer)
+User added to the system: moazahmed (First Name: Moaz, Last Name: Ahmed)
+User added to the system: mohamedbadra (First Name: Mohamed, Last Name: Badra)
+User added to the system: ahmedsalama (First Name: Ahmed, Last Name: Salama)
+User added to the system: prof.ashrafabdelraouf (First Name: Ashraf, Last Name: Abdelraouf)
+User added to the system: tamerhagras (First Name: Tamer, Last Name: Hagras)
+User added to the system: tylerdurden (First Name: Tyler, Last Name: Durden)
+User added to the system: arthurmorgan (First Name: Arthur, Last Name: Morgan)
+User added to the system: nassereldesouky (First Name: Nasser, Last Name: Eldesouky)
+User added to the system: gaafarelomda (First Name: Gaafar, Last Name: Elomda)
+User added to the system: omaraeia (First Name: Omar, Last Name: Raeia)
+User added to the system: theNarrator (First Name: Tyler, Last Name: Durden)
+User added to the system: ryangosling (First Name: Ryan, Last Name: Gosling)
+User added to the system: hamadahelal (First Name: Hamada, Last Name: Helal)
+User added to the system: ahmedalsayed (First Name: Ahmed, Last Name: Alsayed)
+User added to the system: hassanhazem (First Name: Hassan, Last Name: Hazem)
+User added to the system: mostafaamr (First Name: Mostafa, Last Name: Amr)
+User added to the system: mariamshemis (First Name: Mariam, Last Name: Shemis)
+User added to the system: abdelrahmanzayed (First Name: Abdelrahman, Last Name: Zayed)
+User added to the system: mariamtarek (First Name: Mariam, Last Name: Tarek)
+User added to the system: mariamibrahim (First Name: Mariam, Last Name: Ibrahim)
+User added to the system: hossamosama (First Name: Hossam, Last Name: Osama)
+User added to the system: omarabouraia (First Name: Omar, Last Name: Abouraia)
+User added to the system: alyattia (First Name: Aly, Last Name: Attia)
+User added to the system: saeednegm (First Name: Saeed, Last Name: Negm)
+User added to the system: zeinamaged (First Name: Zeina, Last Name: Maged)
+User added to the system: sagdamansour (First Name: Sagda, Last Name: Mansour)
+User added to the system: janamohamed (First Name: Jana, Last Name: Mohamed)
+User added to the system: janakhaled (First Name: Jana, Last Name: Khaled)
+User added to the system: rahafahmed (First Name: Rahaf, Last Name: Ahmed)
+User added to the system: davidsameh (First Name: David, Last Name: Sameh)
+User added to the system: youssefsalem (First Name: Youssef, Last Name: Salem)
+User added to the system: ashrafsameh (First Name: Ashraf, Last Name: Sameh)
+User added to the system: adhamelattar (First Name: Adham, Last Name: Elattar)
+User added to the system: zeinkazem (First Name: Zein, Last Name: Kazem)
+User added to the system: alyomar (First Name: Aly, Last Name: Omar)
+nouranmohamed added reetajahmed to their friends list.
+reetajahmed added eslamfawzy to their friends list.
+adhamwalid added nouranmohamed to their friends list.
+adhamwalid added yehyaalabyad to their friends list.
+mohamedwael added yehyaalabyad to their friends list.
+adhamwalid added eslamfawzy to their friends list.
+mohamedwael added eslamfawzy to their friends list.
+rahafahmed added hassanismail to their friends list.
+yehyaalabyad added reetajahmed to their friends list.
+nouranmohamed added mohamedwael to their friends list.
+reetajahmed added mohamedwael to their friends list.
+carolkamal added adhamwalid to their friends list.
+carolkamal added reetajahmed to their friends list.
+hassanismail added yehyaalabyad to their friends list.
+hassanismail added nouranmohamed to their friends list.
+User added to the system: adhamwalid (First Name: Adham, Last Name: Walid)
+User added to the system: yehyaalabyad (First Name: Yehya, Last Name: AlAbyad)
+User added to the system: nouranmohamed (First Name: Nouran, Last Name: Mohamed)
+User added to the system: reetajahmed (First Name: Reetaj, Last Name: Ahmed)
+User added to the system: mohamedwael (First Name: Mohamed, Last Name: Wael)
+User added to the system: carolkamal (First Name: Carol, Last Name: Kamal)
+User added to the system: hassanismail (First Name: Hassan, Last Name: Ismail)
+User added to the system: eslamfawzy (First Name: Eslam, Last Name: Fawzy)
+User added to the system: abdoadel (First Name: Abdo, Last Name: Adel)
+User added to the system: omarashraf (First Name: Omar, Last Name: Ashraf)
+User added to the system: janahasheesh (First Name: Jana, Last Name: Hasheesh)
+User added to the system: tokaelsayed (First Name: Toka, Last Name: ElSayed)
+User added to the system: amirtamer (First Name: Amir, Last Name: Tamer)
+User added to the system: moazahmed (First Name: Moaz, Last Name: Ahmed)
+User added to the system: mohamedbadra (First Name: Mohamed, Last Name: Badra)
+User added to the system: ahmedsalama (First Name: Ahmed, Last Name: Salama)
+User added to the system: prof.ashrafabdelraouf (First Name: Ashraf, Last Name: Abdelraouf)
+User added to the system: tamerhagras (First Name: Tamer, Last Name: Hagras)
+User added to the system: tylerdurden (First Name: Tyler, Last Name: Durden)
+User added to the system: arthurmorgan (First Name: Arthur, Last Name: Morgan)
+User added to the system: nassereldesouky (First Name: Nasser, Last Name: Eldesouky)
+User added to the system: gaafarelomda (First Name: Gaafar, Last Name: Elomda)
+User added to the system: omaraeia (First Name: Omar, Last Name: Raeia)
+User added to the system: theNarrator (First Name: Tyler, Last Name: Durden)
+User added to the system: ryangosling (First Name: Ryan, Last Name: Gosling)
+User added to the system: hamadahelal (First Name: Hamada, Last Name: Helal)
+User added to the system: ahmedalsayed (First Name: Ahmed, Last Name: Alsayed)
+User added to the system: hassanhazem (First Name: Hassan, Last Name: Hazem)
+User added to the system: mostafaamr (First Name: Mostafa, Last Name: Amr)
+User added to the system: mariamshemis (First Name: Mariam, Last Name: Shemis)
+User added to the system: abdelrahmanzayed (First Name: Abdelrahman, Last Name: Zayed)
+User added to the system: mariamtarek (First Name: Mariam, Last Name: Tarek)
+User added to the system: mariamibrahim (First Name: Mariam, Last Name: Ibrahim)
+User added to the system: hossamosama (First Name: Hossam, Last Name: Osama)
+User added to the system: omarabouraia (First Name: Omar, Last Name: Abouraia)
+User added to the system: alyattia (First Name: Aly, Last Name: Attia)
+User added to the system: saeednegm (First Name: Saeed, Last Name: Negm)
+User added to the system: zeinamaged (First Name: Zeina, Last Name: Maged)
+User added to the system: sagdamansour (First Name: Sagda, Last Name: Mansour)
+User added to the system: janamohamed (First Name: Jana, Last Name: Mohamed)
+User added to the system: janakhaled (First Name: Jana, Last Name: Khaled)
+User added to the system: rahafahmed (First Name: Rahaf, Last Name: Ahmed)
+User added to the system: davidsameh (First Name: David, Last Name: Sameh)
+User added to the system: youssefsalem (First Name: Youssef, Last Name: Salem)
+User added to the system: ashrafsameh (First Name: Ashraf, Last Name: Sameh)
+User added to the system: adhamelattar (First Name: Adham, Last Name: Elattar)
+User added to the system: zeinkazem (First Name: Zein, Last Name: Kazem)
+User added to the system: alyomar (First Name: Aly, Last Name: Omar)
+nouranmohamed added reetajahmed to their friends list.
+reetajahmed added eslamfawzy to their friends list.
+adhamwalid added nouranmohamed to their friends list.
+adhamwalid added yehyaalabyad to their friends list.
+mohamedwael added yehyaalabyad to their friends list.
+adhamwalid added eslamfawzy to their friends list.
+mohamedwael added eslamfawzy to their friends list.
+rahafahmed added hassanismail to their friends list.
+yehyaalabyad added reetajahmed to their friends list.
+nouranmohamed added mohamedwael to their friends list.
+reetajahmed added mohamedwael to their friends list.
+carolkamal added adhamwalid to their friends list.
+carolkamal added reetajahmed to their friends list.
+hassanismail added yehyaalabyad to their friends list.
+hassanismail added nouranmohamed to their friends list.
+User added to the system: ziadismail (First Name: Ziad, Last Name: Ismail)
+Searching at index: 1063
+Checking username: ziadismail, password: ziad123
+Invalid username or password attempted: ziadismail
+Searching at index: 1063
+Checking username: ziadismail, password: ziad123
+Sum of username characters: 1091
+Calculated hash index: 1091
+Calling HASHget...
+Searching at index: 1091
+Checking username: eslamfawzy, password: password131
+Successfully retrieved targetNode
+Checking if username is in friends list...
+Request sent from ziadismail to eslamfawzy.
+Added successfully!
+Successfully retrieved targetNode
+Checking if username is in friends list...
+Successfully retrieved targetNode
+Checking if username is in friends list...
+------------------------------------------------------------
+Searching at index: 1091
+Checking username: eslamfawzy, password: password131
+eslamfawzy added ziadismail to their friends list.
+Searching at index: 1063
+Checking username: ziadismail, password: ziad123
+Username: reetajahmed, Mutual Count: 1
+Username: adhamwalid, Mutual Count: 1
+Username: mohamedwael, Mutual Count: 1
+Username: reetajahmed, Mutual Count: 1
+Username: adhamwalid, Mutual Count: 1
+Username: mohamedwael, Mutual Count: 1
+Searching at index: 1091
+Checking username: eslamfawzy, password: password131
+User added to the system: adhamwalid (First Name: Adham, Last Name: Walid)
+User added to the system: yehyaalabyad (First Name: Yehya, Last Name: AlAbyad)
+User added to the system: nouranmohamed (First Name: Nouran, Last Name: Mohamed)
+User added to the system: reetajahmed (First Name: Reetaj, Last Name: Ahmed)
+User added to the system: mohamedwael (First Name: Mohamed, Last Name: Wael)
+User added to the system: carolkamal (First Name: Carol, Last Name: Kamal)
+User added to the system: hassanismail (First Name: Hassan, Last Name: Ismail)
+User added to the system: eslamfawzy (First Name: Eslam, Last Name: Fawzy)
+User added to the system: abdoadel (First Name: Abdo, Last Name: Adel)
+User added to the system: omarashraf (First Name: Omar, Last Name: Ashraf)
+User added to the system: janahasheesh (First Name: Jana, Last Name: Hasheesh)
+User added to the system: tokaelsayed (First Name: Toka, Last Name: ElSayed)
+User added to the system: amirtamer (First Name: Amir, Last Name: Tamer)
+User added to the system: moazahmed (First Name: Moaz, Last Name: Ahmed)
+User added to the system: mohamedbadra (First Name: Mohamed, Last Name: Badra)
+User added to the system: ahmedsalama (First Name: Ahmed, Last Name: Salama)
+User added to the system: prof.ashrafabdelraouf (First Name: Ashraf, Last Name: Abdelraouf)
+User added to the system: tamerhagras (First Name: Tamer, Last Name: Hagras)
+User added to the system: tylerdurden (First Name: Tyler, Last Name: Durden)
+User added to the system: arthurmorgan (First Name: Arthur, Last Name: Morgan)
+User added to the system: nassereldesouky (First Name: Nasser, Last Name: Eldesouky)
+User added to the system: gaafarelomda (First Name: Gaafar, Last Name: Elomda)
+User added to the system: omaraeia (First Name: Omar, Last Name: Raeia)
+User added to the system: theNarrator (First Name: Tyler, Last Name: Durden)
+User added to the system: ryangosling (First Name: Ryan, Last Name: Gosling)
+User added to the system: hamadahelal (First Name: Hamada, Last Name: Helal)
+User added to the system: ahmedalsayed (First Name: Ahmed, Last Name: Alsayed)
+User added to the system: hassanhazem (First Name: Hassan, Last Name: Hazem)
+User added to the system: mostafaamr (First Name: Mostafa, Last Name: Amr)
+User added to the system: mariamshemis (First Name: Mariam, Last Name: Shemis)
+User added to the system: abdelrahmanzayed (First Name: Abdelrahman, Last Name: Zayed)
+User added to the system: mariamtarek (First Name: Mariam, Last Name: Tarek)
+User added to the system: mariamibrahim (First Name: Mariam, Last Name: Ibrahim)
+User added to the system: hossamosama (First Name: Hossam, Last Name: Osama)
+User added to the system: omarabouraia (First Name: Omar, Last Name: Abouraia)
+User added to the system: alyattia (First Name: Aly, Last Name: Attia)
+User added to the system: saeednegm (First Name: Saeed, Last Name: Negm)
+User added to the system: zeinamaged (First Name: Zeina, Last Name: Maged)
+User added to the system: sagdamansour (First Name: Sagda, Last Name: Mansour)
+User added to the system: janamohamed (First Name: Jana, Last Name: Mohamed)
+User added to the system: janakhaled (First Name: Jana, Last Name: Khaled)
+User added to the system: rahafahmed (First Name: Rahaf, Last Name: Ahmed)
+User added to the system: davidsameh (First Name: David, Last Name: Sameh)
+User added to the system: youssefsalem (First Name: Youssef, Last Name: Salem)
+User added to the system: ashrafsameh (First Name: Ashraf, Last Name: Sameh)
+User added to the system: adhamelattar (First Name: Adham, Last Name: Elattar)
+User added to the system: zeinkazem (First Name: Zein, Last Name: Kazem)
+User added to the system: alyomar (First Name: Aly, Last Name: Omar)
+nouranmohamed added reetajahmed to their friends list.
+reetajahmed added eslamfawzy to their friends list.
+adhamwalid added nouranmohamed to their friends list.
+adhamwalid added yehyaalabyad to their friends list.
+mohamedwael added yehyaalabyad to their friends list.
+adhamwalid added eslamfawzy to their friends list.
+mohamedwael added eslamfawzy to their friends list.
+rahafahmed added hassanismail to their friends list.
+yehyaalabyad added reetajahmed to their friends list.
+nouranmohamed added mohamedwael to their friends list.
+reetajahmed added mohamedwael to their friends list.
+carolkamal added adhamwalid to their friends list.
+carolkamal added reetajahmed to their friends list.
+hassanismail added yehyaalabyad to their friends list.
+hassanismail added nouranmohamed to their friends list.
+Searching at index: 1091
+Checking username: eslamfawzy, password: password131
+User added to the system: adhamwalid (First Name: Adham, Last Name: Walid)
+User added to the system: yehyaalabyad (First Name: Yehya, Last Name: AlAbyad)
+User added to the system: nouranmohamed (First Name: Nouran, Last Name: Mohamed)
+User added to the system: reetajahmed (First Name: Reetaj, Last Name: Ahmed)
+User added to the system: mohamedwael (First Name: Mohamed, Last Name: Wael)
+User added to the system: carolkamal (First Name: Carol, Last Name: Kamal)
+User added to the system: hassanismail (First Name: Hassan, Last Name: Ismail)
+User added to the system: eslamfawzy (First Name: Eslam, Last Name: Fawzy)
+User added to the system: abdoadel (First Name: Abdo, Last Name: Adel)
+User added to the system: omarashraf (First Name: Omar, Last Name: Ashraf)
+User added to the system: janahasheesh (First Name: Jana, Last Name: Hasheesh)
+User added to the system: tokaelsayed (First Name: Toka, Last Name: ElSayed)
+User added to the system: amirtamer (First Name: Amir, Last Name: Tamer)
+User added to the system: moazahmed (First Name: Moaz, Last Name: Ahmed)
+User added to the system: mohamedbadra (First Name: Mohamed, Last Name: Badra)
+User added to the system: ahmedsalama (First Name: Ahmed, Last Name: Salama)
+User added to the system: prof.ashrafabdelraouf (First Name: Ashraf, Last Name: Abdelraouf)
+User added to the system: tamerhagras (First Name: Tamer, Last Name: Hagras)
+User added to the system: tylerdurden (First Name: Tyler, Last Name: Durden)
+User added to the system: arthurmorgan (First Name: Arthur, Last Name: Morgan)
+User added to the system: nassereldesouky (First Name: Nasser, Last Name: Eldesouky)
+User added to the system: gaafarelomda (First Name: Gaafar, Last Name: Elomda)
+User added to the system: omaraeia (First Name: Omar, Last Name: Raeia)
+User added to the system: theNarrator (First Name: Tyler, Last Name: Durden)
+User added to the system: ryangosling (First Name: Ryan, Last Name: Gosling)
+User added to the system: hamadahelal (First Name: Hamada, Last Name: Helal)
+User added to the system: ahmedalsayed (First Name: Ahmed, Last Name: Alsayed)
+User added to the system: hassanhazem (First Name: Hassan, Last Name: Hazem)
+User added to the system: mostafaamr (First Name: Mostafa, Last Name: Amr)
+User added to the system: mariamshemis (First Name: Mariam, Last Name: Shemis)
+User added to the system: abdelrahmanzayed (First Name: Abdelrahman, Last Name: Zayed)
+User added to the system: mariamtarek (First Name: Mariam, Last Name: Tarek)
+User added to the system: mariamibrahim (First Name: Mariam, Last Name: Ibrahim)
+User added to the system: hossamosama (First Name: Hossam, Last Name: Osama)
+User added to the system: omarabouraia (First Name: Omar, Last Name: Abouraia)
+User added to the system: alyattia (First Name: Aly, Last Name: Attia)
+User added to the system: saeednegm (First Name: Saeed, Last Name: Negm)
+User added to the system: zeinamaged (First Name: Zeina, Last Name: Maged)
+User added to the system: sagdamansour (First Name: Sagda, Last Name: Mansour)
+User added to the system: janamohamed (First Name: Jana, Last Name: Mohamed)
+User added to the system: janakhaled (First Name: Jana, Last Name: Khaled)
+User added to the system: rahafahmed (First Name: Rahaf, Last Name: Ahmed)
+User added to the system: davidsameh (First Name: David, Last Name: Sameh)
+User added to the system: youssefsalem (First Name: Youssef, Last Name: Salem)
+User added to the system: ashrafsameh (First Name: Ashraf, Last Name: Sameh)
+User added to the system: adhamelattar (First Name: Adham, Last Name: Elattar)
+User added to the system: zeinkazem (First Name: Zein, Last Name: Kazem)
+User added to the system: alyomar (First Name: Aly, Last Name: Omar)
+nouranmohamed added reetajahmed to their friends list.
+reetajahmed added eslamfawzy to their friends list.
+adhamwalid added nouranmohamed to their friends list.
+adhamwalid added yehyaalabyad to their friends list.
+mohamedwael added yehyaalabyad to their friends list.
+adhamwalid added eslamfawzy to their friends list.
+mohamedwael added eslamfawzy to their friends list.
+rahafahmed added hassanismail to their friends list.
+yehyaalabyad added reetajahmed to their friends list.
+nouranmohamed added mohamedwael to their friends list.
+reetajahmed added mohamedwael to their friends list.
+carolkamal added adhamwalid to their friends list.
+carolkamal added reetajahmed to their friends list.
+hassanismail added yehyaalabyad to their friends list.
+hassanismail added nouranmohamed to their friends list.
+Searching at index: 1091
+Checking username: eslamfawzy, password: password131
+User added to the system: adhamwalid (First Name: Adham, Last Name: Walid)
+User added to the system: yehyaalabyad (First Name: Yehya, Last Name: AlAbyad)
+User added to the system: nouranmohamed (First Name: Nouran, Last Name: Mohamed)
+User added to the system: reetajahmed (First Name: Reetaj, Last Name: Ahmed)
+User added to the system: mohamedwael (First Name: Mohamed, Last Name: Wael)
+User added to the system: carolkamal (First Name: Carol, Last Name: Kamal)
+User added to the system: hassanismail (First Name: Hassan, Last Name: Ismail)
+User added to the system: eslamfawzy (First Name: Eslam, Last Name: Fawzy)
+User added to the system: abdoadel (First Name: Abdo, Last Name: Adel)
+User added to the system: omarashraf (First Name: Omar, Last Name: Ashraf)
+User added to the system: janahasheesh (First Name: Jana, Last Name: Hasheesh)
+User added to the system: tokaelsayed (First Name: Toka, Last Name: ElSayed)
+User added to the system: amirtamer (First Name: Amir, Last Name: Tamer)
+User added to the system: moazahmed (First Name: Moaz, Last Name: Ahmed)
+User added to the system: mohamedbadra (First Name: Mohamed, Last Name: Badra)
+User added to the system: ahmedsalama (First Name: Ahmed, Last Name: Salama)
+User added to the system: prof.ashrafabdelraouf (First Name: Ashraf, Last Name: Abdelraouf)
+User added to the system: tamerhagras (First Name: Tamer, Last Name: Hagras)
+User added to the system: tylerdurden (First Name: Tyler, Last Name: Durden)
+User added to the system: arthurmorgan (First Name: Arthur, Last Name: Morgan)
+User added to the system: nassereldesouky (First Name: Nasser, Last Name: Eldesouky)
+User added to the system: gaafarelomda (First Name: Gaafar, Last Name: Elomda)
+User added to the system: omaraeia (First Name: Omar, Last Name: Raeia)
+User added to the system: theNarrator (First Name: Tyler, Last Name: Durden)
+User added to the system: ryangosling (First Name: Ryan, Last Name: Gosling)
+User added to the system: hamadahelal (First Name: Hamada, Last Name: Helal)
+User added to the system: ahmedalsayed (First Name: Ahmed, Last Name: Alsayed)
+User added to the system: hassanhazem (First Name: Hassan, Last Name: Hazem)
+User added to the system: mostafaamr (First Name: Mostafa, Last Name: Amr)
+User added to the system: mariamshemis (First Name: Mariam, Last Name: Shemis)
+User added to the system: abdelrahmanzayed (First Name: Abdelrahman, Last Name: Zayed)
+User added to the system: mariamtarek (First Name: Mariam, Last Name: Tarek)
+User added to the system: mariamibrahim (First Name: Mariam, Last Name: Ibrahim)
+User added to the system: hossamosama (First Name: Hossam, Last Name: Osama)
+User added to the system: omarabouraia (First Name: Omar, Last Name: Abouraia)
+User added to the system: alyattia (First Name: Aly, Last Name: Attia)
+User added to the system: saeednegm (First Name: Saeed, Last Name: Negm)
+User added to the system: zeinamaged (First Name: Zeina, Last Name: Maged)
+User added to the system: sagdamansour (First Name: Sagda, Last Name: Mansour)
+User added to the system: janamohamed (First Name: Jana, Last Name: Mohamed)
+User added to the system: janakhaled (First Name: Jana, Last Name: Khaled)
+User added to the system: rahafahmed (First Name: Rahaf, Last Name: Ahmed)
+User added to the system: davidsameh (First Name: David, Last Name: Sameh)
+User added to the system: youssefsalem (First Name: Youssef, Last Name: Salem)
+User added to the system: ashrafsameh (First Name: Ashraf, Last Name: Sameh)
+User added to the system: adhamelattar (First Name: Adham, Last Name: Elattar)
+User added to the system: zeinkazem (First Name: Zein, Last Name: Kazem)
+User added to the system: alyomar (First Name: Aly, Last Name: Omar)
+nouranmohamed added reetajahmed to their friends list.
+reetajahmed added eslamfawzy to their friends list.
+adhamwalid added nouranmohamed to their friends list.
+adhamwalid added yehyaalabyad to their friends list.
+mohamedwael added yehyaalabyad to their friends list.
+adhamwalid added eslamfawzy to their friends list.
+mohamedwael added eslamfawzy to their friends list.
+rahafahmed added hassanismail to their friends list.
+yehyaalabyad added reetajahmed to their friends list.
+nouranmohamed added mohamedwael to their friends list.
+reetajahmed added mohamedwael to their friends list.
+carolkamal added adhamwalid to their friends list.
+carolkamal added reetajahmed to their friends list.
+hassanismail added yehyaalabyad to their friends list.
+hassanismail added nouranmohamed to their friends list.
+Searching at index: 1091
+Checking username: eslamfawzy, password: password131
+User added to the system: adhamwalid (First Name: Adham, Last Name: Walid)
+User added to the system: yehyaalabyad (First Name: Yehya, Last Name: AlAbyad)
+User added to the system: nouranmohamed (First Name: Nouran, Last Name: Mohamed)
+User added to the system: reetajahmed (First Name: Reetaj, Last Name: Ahmed)
+User added to the system: mohamedwael (First Name: Mohamed, Last Name: Wael)
+User added to the system: carolkamal (First Name: Carol, Last Name: Kamal)
+User added to the system: hassanismail (First Name: Hassan, Last Name: Ismail)
+User added to the system: eslamfawzy (First Name: Eslam, Last Name: Fawzy)
+User added to the system: abdoadel (First Name: Abdo, Last Name: Adel)
+User added to the system: omarashraf (First Name: Omar, Last Name: Ashraf)
+User added to the system: janahasheesh (First Name: Jana, Last Name: Hasheesh)
+User added to the system: tokaelsayed (First Name: Toka, Last Name: ElSayed)
+User added to the system: amirtamer (First Name: Amir, Last Name: Tamer)
+User added to the system: moazahmed (First Name: Moaz, Last Name: Ahmed)
+User added to the system: mohamedbadra (First Name: Mohamed, Last Name: Badra)
+User added to the system: ahmedsalama (First Name: Ahmed, Last Name: Salama)
+User added to the system: prof.ashrafabdelraouf (First Name: Ashraf, Last Name: Abdelraouf)
+User added to the system: tamerhagras (First Name: Tamer, Last Name: Hagras)
+User added to the system: tylerdurden (First Name: Tyler, Last Name: Durden)
+User added to the system: arthurmorgan (First Name: Arthur, Last Name: Morgan)
+User added to the system: nassereldesouky (First Name: Nasser, Last Name: Eldesouky)
+User added to the system: gaafarelomda (First Name: Gaafar, Last Name: Elomda)
+User added to the system: omaraeia (First Name: Omar, Last Name: Raeia)
+User added to the system: theNarrator (First Name: Tyler, Last Name: Durden)
+User added to the system: ryangosling (First Name: Ryan, Last Name: Gosling)
+User added to the system: hamadahelal (First Name: Hamada, Last Name: Helal)
+User added to the system: ahmedalsayed (First Name: Ahmed, Last Name: Alsayed)
+User added to the system: hassanhazem (First Name: Hassan, Last Name: Hazem)
+User added to the system: mostafaamr (First Name: Mostafa, Last Name: Amr)
+User added to the system: mariamshemis (First Name: Mariam, Last Name: Shemis)
+User added to the system: abdelrahmanzayed (First Name: Abdelrahman, Last Name: Zayed)
+User added to the system: mariamtarek (First Name: Mariam, Last Name: Tarek)
+User added to the system: mariamibrahim (First Name: Mariam, Last Name: Ibrahim)
+User added to the system: hossamosama (First Name: Hossam, Last Name: Osama)
+User added to the system: omarabouraia (First Name: Omar, Last Name: Abouraia)
+User added to the system: alyattia (First Name: Aly, Last Name: Attia)
+User added to the system: saeednegm (First Name: Saeed, Last Name: Negm)
+User added to the system: zeinamaged (First Name: Zeina, Last Name: Maged)
+User added to the system: sagdamansour (First Name: Sagda, Last Name: Mansour)
+User added to the system: janamohamed (First Name: Jana, Last Name: Mohamed)
+User added to the system: janakhaled (First Name: Jana, Last Name: Khaled)
+User added to the system: rahafahmed (First Name: Rahaf, Last Name: Ahmed)
+User added to the system: davidsameh (First Name: David, Last Name: Sameh)
+User added to the system: youssefsalem (First Name: Youssef, Last Name: Salem)
+User added to the system: ashrafsameh (First Name: Ashraf, Last Name: Sameh)
+User added to the system: adhamelattar (First Name: Adham, Last Name: Elattar)
+User added to the system: zeinkazem (First Name: Zein, Last Name: Kazem)
+User added to the system: alyomar (First Name: Aly, Last Name: Omar)
+nouranmohamed added reetajahmed to their friends list.
+reetajahmed added eslamfawzy to their friends list.
+adhamwalid added nouranmohamed to their friends list.
+adhamwalid added yehyaalabyad to their friends list.
+mohamedwael added yehyaalabyad to their friends list.
+adhamwalid added eslamfawzy to their friends list.
+mohamedwael added eslamfawzy to their friends list.
+rahafahmed added hassanismail to their friends list.
+yehyaalabyad added reetajahmed to their friends list.
+nouranmohamed added mohamedwael to their friends list.
+reetajahmed added mohamedwael to their friends list.
+carolkamal added adhamwalid to their friends list.
+carolkamal added reetajahmed to their friends list.
+hassanismail added yehyaalabyad to their friends list.
+hassanismail added nouranmohamed to their friends list.
+User added to the system: eslamfawzy1 (First Name: eslam, Last Name: fawzy)
+Searching at index: 1140
+Checking username: eslamfawzy1, password: eslam1
+Sum of username characters: 1036
+Calculated hash index: 1036
+Calling HASHget...
+Searching at index: 1036
+Checking username: adhamwalid, password: password123
+Successfully retrieved targetNode
+Checking if username is in friends list...
+Request sent from eslamfawzy1 to adhamwalid.
+Added successfully!
+Successfully retrieved targetNode
+Checking if username is in friends list...
+------------------------------------------------------------
+Searching at index: 1036
+Checking username: adhamwalid, password: password123
+adhamwalid added eslamfawzy1 to their friends list.
+Searching at index: 1140
+Checking username: eslamfawzy1, password: eslam1
+User added to the system: adhamwalid (First Name: Adham, Last Name: Walid)
+User added to the system: yehyaalabyad (First Name: Yehya, Last Name: AlAbyad)
+User added to the system: nouranmohamed (First Name: Nouran, Last Name: Mohamed)
+User added to the system: reetajahmed (First Name: Reetaj, Last Name: Ahmed)
+User added to the system: mohamedwael (First Name: Mohamed, Last Name: Wael)
+User added to the system: carolkamal (First Name: Carol, Last Name: Kamal)
+User added to the system: hassanismail (First Name: Hassan, Last Name: Ismail)
+User added to the system: eslamfawzy (First Name: Eslam, Last Name: Fawzy)
+User added to the system: abdoadel (First Name: Abdo, Last Name: Adel)
+User added to the system: omarashraf (First Name: Omar, Last Name: Ashraf)
+User added to the system: janahasheesh (First Name: Jana, Last Name: Hasheesh)
+User added to the system: tokaelsayed (First Name: Toka, Last Name: ElSayed)
+User added to the system: amirtamer (First Name: Amir, Last Name: Tamer)
+User added to the system: moazahmed (First Name: Moaz, Last Name: Ahmed)
+User added to the system: mohamedbadra (First Name: Mohamed, Last Name: Badra)
+User added to the system: ahmedsalama (First Name: Ahmed, Last Name: Salama)
+User added to the system: prof.ashrafabdelraouf (First Name: Ashraf, Last Name: Abdelraouf)
+User added to the system: tamerhagras (First Name: Tamer, Last Name: Hagras)
+User added to the system: tylerdurden (First Name: Tyler, Last Name: Durden)
+User added to the system: arthurmorgan (First Name: Arthur, Last Name: Morgan)
+User added to the system: nassereldesouky (First Name: Nasser, Last Name: Eldesouky)
+User added to the system: gaafarelomda (First Name: Gaafar, Last Name: Elomda)
+User added to the system: omaraeia (First Name: Omar, Last Name: Raeia)
+User added to the system: theNarrator (First Name: Tyler, Last Name: Durden)
+User added to the system: ryangosling (First Name: Ryan, Last Name: Gosling)
+User added to the system: hamadahelal (First Name: Hamada, Last Name: Helal)
+User added to the system: ahmedalsayed (First Name: Ahmed, Last Name: Alsayed)
+User added to the system: hassanhazem (First Name: Hassan, Last Name: Hazem)
+User added to the system: mostafaamr (First Name: Mostafa, Last Name: Amr)
+User added to the system: mariamshemis (First Name: Mariam, Last Name: Shemis)
+User added to the system: abdelrahmanzayed (First Name: Abdelrahman, Last Name: Zayed)
+User added to the system: mariamtarek (First Name: Mariam, Last Name: Tarek)
+User added to the system: mariamibrahim (First Name: Mariam, Last Name: Ibrahim)
+User added to the system: hossamosama (First Name: Hossam, Last Name: Osama)
+User added to the system: omarabouraia (First Name: Omar, Last Name: Abouraia)
+User added to the system: alyattia (First Name: Aly, Last Name: Attia)
+User added to the system: saeednegm (First Name: Saeed, Last Name: Negm)
+User added to the system: zeinamaged (First Name: Zeina, Last Name: Maged)
+User added to the system: sagdamansour (First Name: Sagda, Last Name: Mansour)
+User added to the system: janamohamed (First Name: Jana, Last Name: Mohamed)
+User added to the system: janakhaled (First Name: Jana, Last Name: Khaled)
+User added to the system: rahafahmed (First Name: Rahaf, Last Name: Ahmed)
+User added to the system: davidsameh (First Name: David, Last Name: Sameh)
+User added to the system: youssefsalem (First Name: Youssef, Last Name: Salem)
+User added to the system: ashrafsameh (First Name: Ashraf, Last Name: Sameh)
+User added to the system: adhamelattar (First Name: Adham, Last Name: Elattar)
+User added to the system: zeinkazem (First Name: Zein, Last Name: Kazem)
+User added to the system: alyomar (First Name: Aly, Last Name: Omar)
+nouranmohamed added reetajahmed to their friends list.
+reetajahmed added eslamfawzy to their friends list.
+adhamwalid added nouranmohamed to their friends list.
+adhamwalid added yehyaalabyad to their friends list.
+mohamedwael added yehyaalabyad to their friends list.
+adhamwalid added eslamfawzy to their friends list.
+mohamedwael added eslamfawzy to their friends list.
+rahafahmed added hassanismail to their friends list.
+yehyaalabyad added reetajahmed to their friends list.
+nouranmohamed added mohamedwael to their friends list.
+reetajahmed added mohamedwael to their friends list.
+carolkamal added adhamwalid to their friends list.
+carolkamal added reetajahmed to their friends list.
+hassanismail added yehyaalabyad to their friends list.
+hassanismail added nouranmohamed to their friends list.
+User added to the system: es72 (First Name: eslam, Last Name: mohamed)
+Searching at index: 321
+Checking username: es72, password: es72
